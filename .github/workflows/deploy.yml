@@ -1,4 +1,4 @@
-name: Deploy Infrastructure to AWS
+name: Deploy 3-Tier Infrastructure to AWS
 
 on:
   workflow_dispatch:
