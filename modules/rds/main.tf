@@ -20,5 +20,5 @@ resource "aws_db_instance" "oracle_db" {
     Name = "oracle_db_instance"
   }
 
-  backup_retention_period = 7  # Retain backups for 7 days
+  backup_retention_period = 1  # Retain backups for 7 days
 }
